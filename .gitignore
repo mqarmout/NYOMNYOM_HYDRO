@@ -1,0 +1,4 @@
+.env
+.session_cookie
+__pycache__/
+*.pyc

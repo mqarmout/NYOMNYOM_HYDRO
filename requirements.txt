@@ -1,0 +1,7 @@
+requests>=2.31.0
+
+# Uncomment as you add hardware:
+# RPi.GPIO>=0.7.1             # relay + HC-SR04 ultrasonic
+# smbus2>=0.4.3               # Atlas Scientific EZO via I2C
+# adafruit-circuitpython-dht>=3.7.9  # DHT22 air temp + humidity
+# adafruit-blinka>=8.0.0     # required by circuitpython-dht
